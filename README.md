@@ -1,6 +1,6 @@
 # Monopoly-Game
 I developped the famous social game "Monopoly" using Qt platform . 
-#Description 
+# Description 
 Monopoly is a popular board game that involves players buying, selling,
 and trading properties in order to accumulate wealth and force their opponents into bankruptcy. 
 Here's the rules of the game : 
